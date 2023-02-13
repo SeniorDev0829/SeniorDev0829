@@ -70,9 +70,11 @@
   </h2>
   <br />
   
-  <div align="center">
-    <img src="https://img.icons8.com/color/2x/skype.png"  width="40" />
-    <div>live:.cid.47f7cfc878841721</div>
+  <div align="center" style="flex:row">
+    <div style="flex:row">
+      <img src="https://img.icons8.com/color/2x/skype.png"  width="40" />
+      live:.cid.47f7cfc878841721
+    </div>
     &nbsp;&nbsp;
     <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" />
     <span>superdev0829</span>
