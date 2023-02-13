@@ -70,17 +70,21 @@
   </h2>
   <br />
   
-  <div align="center" style="flex:row">
-    <div style="flex:row">
+  <div align="center" style="display:flex">
+    <div style="display: flex;flex-direction: column;">
       <img src="https://img.icons8.com/color/2x/skype.png"  width="40" />
       live:.cid.47f7cfc878841721
     </div>
     &nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" />
-    <span>superdev0829</span>
+    <div style="display: flex;flex-direction: column;">
+        <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" />
+        <span>superdev0829</span>
+    <div>
     &nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" />
-    <span>Senior Developer#7393</span>
+    <div style="display: flex;flex-direction: column;">
+      <img src="https://img.icons8.com/color/2x/discord.png"  width="40" />
+      <span>Senior Developer#7393</span>
+    </div>
     &nbsp;&nbsp;
   </div>
 </div>
