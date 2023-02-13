@@ -71,11 +71,14 @@
   <br />
   
   <div align="center">
-    <a href="https://join.skype.com/invite/OmKhPWPXyfsB" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+    <img src="https://img.icons8.com/color/2x/skype.png"  width="40" />
+    <span>live:.cid.47f7cfc878841721</span>
     &nbsp;&nbsp;
-    <a href="https://t.me/kanbei0605" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+    <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" />
+    <span>superdev0829</span>
     &nbsp;&nbsp;
-    <a href="https://discord.gg/7AK8VDRu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
+    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" />
+    <span>Senior Developer#7393</span>
     &nbsp;&nbsp;
   </div>
 </div>
