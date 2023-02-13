@@ -72,7 +72,7 @@
   
   <div align="center">
     <img src="https://img.icons8.com/color/2x/skype.png"  width="40" />
-    <span>live:.cid.47f7cfc878841721</span>
+    <div>live:.cid.47f7cfc878841721</div>
     &nbsp;&nbsp;
     <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" />
     <span>superdev0829</span>
